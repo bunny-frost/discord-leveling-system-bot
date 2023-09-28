@@ -2,6 +2,12 @@
 
 This bot is about leveling system. VC levels and Text levels are included.
 
+# What packages do I need to run this bot without errors?
+
+I've got you covered! Use the following command in the terminal in your root directory:
+
+                                npm i discord.js@13 ms
+
 # What are VC Levels and Text Levels?
 
 VC levels are the levels that are rewarded when the user spends a certain time in voice channels.
