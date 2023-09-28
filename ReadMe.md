@@ -6,7 +6,7 @@ This bot is about leveling system. VC levels and Text levels are included.
 
 I've got you covered! Use the following command in the terminal in your root directory:
 
-                                npm i discord.js@13 ms
+npm i discord.js@13 ms
 
 # What are VC Levels and Text Levels?
 
